@@ -1,4 +1,4 @@
-export const BASE_URL = "https://vercel.com/savan5033s-projects/expense-tracker-p1nd-api/";
+export const BASE_URL = "https://expense-tracker-h671.onrender.com/";
 
 export const API_PATHS = {
   AUTH: {
